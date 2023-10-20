@@ -1,2 +1,2 @@
 # Demo-
-demo for learning
+demo for learning Github platform
